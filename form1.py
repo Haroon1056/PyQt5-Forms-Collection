@@ -50,7 +50,7 @@ def save_to_db(first_name, last_name, email):
             host='localhost',
             database='formdb',
             user='root',
-            password='1056'
+            password='hidden_password'
         )
         
         if connection.is_connected():
