@@ -13,7 +13,7 @@ This repository contains a collection of form-based applications built using Pyt
 - **Usage:**
   - Run `form1.py` to use the form.
  
-Form1
+### Form1 UI
 ![form1](https://github.com/user-attachments/assets/3de702b6-c17e-426d-a13e-f59628a12168)
 
 
@@ -27,7 +27,7 @@ Form1
 - **Usage:**
   - Run `form2.py` to use the form.
 
-### Form2
+### Form2 UI
 ![form2first](https://github.com/user-attachments/assets/107bdcef-c22a-4bb3-8892-6133475eb6f2)
 ![form3second](https://github.com/user-attachments/assets/7b346923-27a9-43d9-91cc-3f3f8bcb1e77)
 
