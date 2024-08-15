@@ -32,7 +32,7 @@ This repository contains a collection of form-based applications built using Pyt
 ![form3second](https://github.com/user-attachments/assets/7b346923-27a9-43d9-91cc-3f3f8bcb1e77)
 
 
-```
+
 ### 3. Signup & Login System with Calculator
 
 - **Description:** A project that starts with a Signup screen, followed by a Login screen. Upon successful login, a calculator is displayed.
@@ -49,7 +49,7 @@ This repository contains a collection of form-based applications built using Pyt
 ![slcalculator](https://github.com/user-attachments/assets/59cd1ebf-ac3a-4931-b164-19a3491df89c)
 
 
-```
+
 ## Installation
 
 
